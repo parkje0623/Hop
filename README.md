@@ -1,10 +1,10 @@
 # Hop  
-This is imitation version of mobile game hop which player must continuously move the ball to a moving platform.  
-This is my first attempt to create and publish a game on public using Unity.  
+This is **imitation version of mobile game hop** which player must continuously move the ball to a moving platform.  
+This is my **first attempt to create and publish a game on public using Unity**.  
 Hop can be played on a website as a flash game or as an application on a desktop.  
 
 ## Technology  
-Language Used: **C#**
+Language Used: **C#**  
 Development Tool: **Unity**
 
 ## Instructions 
