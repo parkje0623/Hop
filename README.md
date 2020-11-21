@@ -15,3 +15,4 @@ How to Play:
 - Move the cursor around to hit the ball on a moving platform.  
 
 ## Demo
+![Simple Demo](HopDemo.gif)
