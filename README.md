@@ -9,7 +9,7 @@ Development Tool: **Unity**
 
 ## Instructions 
 Game on a website (flash version) - click on the link [https://jieung.itch.io/bounce](https://jieung.itch.io/bounce)  
-Game on a desktop (Application) - downlaod [Hop.zip](Hop.zip) file and unzip the file and launch an executable file named **Hop**  
+Game on a desktop (Application) - downlaod [Hop.zip](Hop.zip) and unzip it to launch an executable file named **Hop**  
 How to Play:
 - Use the mouse cursor to move the ball.  
 - Move the cursor around to hit the ball on a moving platform.  
